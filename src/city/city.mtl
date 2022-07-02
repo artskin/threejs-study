@@ -1,0 +1,10 @@
+# https://github.com/pissang/little-big-city
+
+newmtl mat_earth
+Kd 0.7607843137254902 0.9215686274509803 0.7137254901960784
+Ks 1 1 1
+Ns 1
+newmtl mat_cloud
+Kd 1 1 1
+Ks 1 1 1
+Ns 1
